@@ -13,7 +13,7 @@
 ### Ссылки
 http://calendar.zoo-am-ring.de/ - сайт HJW Calendar extension 
 
-http://calendar.zoo-am-ring.de/viewforum.php?f=7 - загрузка HJW Calender extension 
+http://calendar.zoo-am-ring.de/viewforum.php?f=7 - загрузка HJW Calendar extension 
 
 # Russian localization for HJW Calendar extension for phpBB forum
 
@@ -29,4 +29,4 @@ http://calendar.zoo-am-ring.de/viewforum.php?f=7 - загрузка HJW Calender
 ### Links
 http://calendar.zoo-am-ring.de/ - HJW Calendar extension official site
 
-http://calendar.zoo-am-ring.de/viewforum.php?f=7 - HJW Calender extension download link
+http://calendar.zoo-am-ring.de/viewforum.php?f=7 - HJW Calendar extension download link
