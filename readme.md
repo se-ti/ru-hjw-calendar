@@ -1,17 +1,17 @@
-# Русская локализация для HJW Calender extension 
+# Р СѓСЃСЃРєР°СЏ Р»РѕРєР°Р»РёР·Р°С†РёСЏ РґР»СЏ HJW Calender extension 
 
-### Системные требования
-* phpBB 3.1.4+ или 3.2+
+### РЎРёСЃС‚РµРјРЅС‹Рµ С‚СЂРµР±РѕРІР°РЅРёСЏ
+* phpBB 3.1.4+ РёР»Рё 3.2+
 * hjw Calender mod 0.9.2+
 
 
-### Установка
-* Загрузите файл https://github.com/se-ti/printPoster/archive/master.zip
-* распакуйте содержимое &lt;phpBB-folder&gt;/ext/hjw/calendar/language/
+### РЈСЃС‚Р°РЅРѕРІРєР°
+* Р—Р°РіСЂСѓР·РёС‚Рµ С„Р°Р№Р» https://github.com/se-ti/printPoster/archive/master.zip
+* СЂР°СЃРїР°РєСѓР№С‚Рµ СЃРѕРґРµСЂР¶РёРјРѕРµ &lt;phpBB-folder&gt;/ext/hjw/calendar/language/
 
-### Ссылки
-http://calendar.zoo-am-ring.de/ - сайт HJW Calender extension 
-http://calendar.zoo-am-ring.de/viewforum.php?f=7 - загрузка HJW Calender extension 
+### РЎСЃС‹Р»РєРё
+http://calendar.zoo-am-ring.de/ - СЃР°Р№С‚ HJW Calender extension 
+http://calendar.zoo-am-ring.de/viewforum.php?f=7 - Р·Р°РіСЂСѓР·РєР° HJW Calender extension 
 
 # Russian localization for HJW Calender extension for phpBB forum
 
