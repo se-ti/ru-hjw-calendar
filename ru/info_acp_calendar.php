@@ -4,7 +4,7 @@
 * @package hjw calendar Extension
 * @copyright (c) 2019 hjw
 * @license http://opensource.org/licenses/gpl-2.0.php GNU General Public License v2
-* Russian translation made by Serge Titov
+* Russian translation made by Serge Titov https://github.com/se-ti/ru-hjw-calendar
 *
 */
 
