@@ -71,5 +71,5 @@ $lang = array_merge($lang, array(
 	'CALENDAR_WEEKLY_OVERVIEW'	=> 'На этой неделе', 
 	'CALENDAR_YES'				=> 'Да',
 	'PARTICIPANTS_LIST'			=> 'Участники', 
-	'VIEWING_CALENDAR'			=> 'Viewing calendar',	// can't find real usage se-ti
+	'VIEWING_CALENDAR'			=> 'Просматривает календарь',
 ));
